@@ -20,6 +20,9 @@ Nosso objetivo é criar um "Duolingo da Culinaria" para ensinar receitas de form
 - [Gateway](https://github.com/Maraba23/insper.api.gateway.git)
 - [Discovery](https://github.com/Maraba23/insper.api.discovery.git)
 
+
+Documentação das rotas:
+
 ---
 
 # Ingrediente API
