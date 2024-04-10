@@ -1,5 +1,9 @@
 # insper.api.docs
 
+Membros do Grupo:
+- Marcelo Rabello Barranco
+- Pedro Antonio Silva
+
 ## API de Documentação de Projetos
 
 - Esse repoitorio serve para documentar os projetos de API e Microserviços.
