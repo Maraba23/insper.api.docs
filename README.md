@@ -103,5 +103,13 @@ Gerencia as operações e a infraestrutura da API, incluindo monitoramento, logg
   - Logging centralizado.
   - Scripts de automação para deploy.
 
+### [Front-end](https://github.com/Maraba23/insper.api.frontend)
+Interface de usuário para interagir com a API, permitindo que os usuários visualizem receitas, ingredientes e contas, além de criar e atualizar suas próprias receitas.
+
+- **Principais Funcionalidades:**
+  - Visualização de receitas.
+  - Adição de ingredientes.
+  - Criação de novas receitas.
+
 ## Documentação das rotas:
 Nossa documentação se encontra em SpringDocs (Swagger)
